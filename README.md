@@ -1,2 +1,2 @@
-# VectareJuniorSoftwareTest
-A repo of the 7 junior software Engineer questions and their answers.
+# Project Euler
+A repo of the 7 questions from project Euler, solving mathematical problems using programing.
