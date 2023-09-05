@@ -1,2 +1,2 @@
 # Project Euler
-A repo of the 7 questions from project Euler, solving mathematical problems using programing.
+A repository containing the answers to the seven questions from Project Euler, which involved utilising programming to solve mathematical issues.
